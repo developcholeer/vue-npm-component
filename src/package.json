@@ -1,0 +1,11 @@
+{
+  "name": "dcv-pluginname",
+  "version": "1.0.2",
+  "description": "基于vue的组件模板",
+  "main": "widge/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liyang",
+  "license": "ISC"
+}
